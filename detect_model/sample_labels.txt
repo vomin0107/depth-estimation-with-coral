@@ -1,0 +1,15 @@
+0 band
+1 remote_control
+2 multi_outlet
+3 pet
+4 poo_pad
+5 laundry
+6 slipper
+7 chair_legs
+8 toy
+9 electric_wire
+10 stand
+11 poo
+12 curtain
+13 stationery
+14 smart_phone
